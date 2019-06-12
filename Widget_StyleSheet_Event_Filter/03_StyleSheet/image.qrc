@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>屏幕快照 2019-06-10 上午1.00.38.png</file>
+        <file>屏幕快照 2019-06-10 下午4.44.00.png</file>
+        <file>屏幕快照 2019-06-10 下午5.01.55.png</file>
+    </qresource>
+</RCC>
